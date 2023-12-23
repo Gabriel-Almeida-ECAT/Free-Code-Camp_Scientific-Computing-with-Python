@@ -6,4 +6,4 @@ For the conclusion of the course "Scientific Computing with Python" from freeCod
 [2 - Time Calculator](https://replit.com/@GabrielAlmeid57/boilerplate-time-calculator#time_calculator.py)\
 [3 - Budget App](https://replit.com/@GabrielAlmeid57/boilerplate-budget-app-8#main.py)\
 [4 - Polygon Area Calculator](https://replit.com/@GabrielAlmeid57/boilerplate-polygon-area-calculator#py)\
-[5 - Probability Calculator](https://replit.com/@GabrielAlmeid57/boilerplate-probability-calculator-1#py)\
+[5 - Probability Calculator](https://replit.com/@GabrielAlmeid57/boilerplate-probability-calculator-1#py)
